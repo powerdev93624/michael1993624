@@ -1,11 +1,50 @@
-![softwaredev](https://github.com/michael1993624/michael1993624/assets/137076875/40f4e01f-ef97-43b8-bf8f-3a5a787a568f)
-
-- 👋 Hello World! 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 Please contact me via email (michael1993624@gmail.com)
-- 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300"/>
 </div>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/christophermatin916/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=rlmathguru&style=flat-square&color=blue" alt=""/>
+</div>
+
+---
+- 🔭 I’m a passionate senior fullstack and Machine Learning Engineer. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🌱 I 've worked for serveral companies , agile scrum teams as a lead engineer .
+
+---
+
+<h2 align="center">Tools and Technologies 🛠</h2>
+<div align="center">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  
+<br>
+<br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlmathguru&theme=vision-friendly-dark&layout=compact&langs_count=10&hide_title=true"/>
+</div>
+
+---
+<h2 align="center">Github Stats ⚡</h2>
+<p align=center>
+  <div align=center>
+    <a href="#" title="Go to Source">
+      <img align="center" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=rlmathguru&theme=radical&border=61dafb&hide_border=true" alt="1hanzla100" />
+    </a>
+    <a href="#" title="Go to Source">
+      <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=rlmathguru&show_icons=true&theme=radical&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+</p>
